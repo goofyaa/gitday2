@@ -9,4 +9,4 @@
 // //console.log("2" > 1); this is wrong else use type script
 console.table([null > 0,null == 0,null >= 0]);
 // // strict check
-console.log("2" === 2);
+console.log("2" === 2)
